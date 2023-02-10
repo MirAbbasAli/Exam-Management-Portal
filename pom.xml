@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>exam_management_sender</module>
+        <module>exam_management_stream</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
